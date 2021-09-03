@@ -31,7 +31,7 @@ Ex: `c:\dev-front`
  `bundle add webrick`
 
 - Iniciar servidor local:
-`jekyll serve`
+`jekyll serve` ou `bundle exec jekyll serve`
 
 - Gerar arquivos estáticos
 `jekyll build`
