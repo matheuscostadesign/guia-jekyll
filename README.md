@@ -20,13 +20,15 @@
 
 - Executar o comando:
 `gem install jekyll bundler`
-`bundle add webrick`
 
 - Abrir VSCode dentro da pasta escolhida
-Ex: c:\dev-front
+Ex: `c:\dev-front`
 
 - Criando a pasta/estrutura "meu-blog":
 `jekyll new meu-blog` | `jekyll new nome-do-projeto`
+
+- Executar comando dentro da pasta criada:
+ `bundle add webrick`
 
 - Iniciar servidor local:
 `jekyll serve`
