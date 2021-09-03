@@ -26,7 +26,10 @@
 Ex: c:\dev-front
 
 - Criando a pasta/estrutura "meu-blog":
-`jekyll new meu-blog`
+`jekyll new meu-blog` | `jekyll new nome-do-projeto`
 
 - Iniciar servidor local:
 `jekyll serve`
+
+- Gerar arquivos estáticos
+`jekyll build`
