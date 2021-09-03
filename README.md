@@ -1,4 +1,4 @@
-# guia-jekyll
+# Guia de instalação do Jekyll no Windows
 
 ### Instalação do Ruby
 
