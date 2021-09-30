@@ -23,6 +23,8 @@
 
 - Reiniciar a máquina
 
+---
+
 ###  Execução do Jekyll
 
 - Abrir VSCode dentro da pasta escolhida
