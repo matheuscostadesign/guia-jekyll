@@ -21,6 +21,10 @@
 - Executar o comando:
 `gem install jekyll bundler`
 
+- Reiniciar a máquina
+
+###  Execução do Jekyll
+
 - Abrir VSCode dentro da pasta escolhida
 Ex: `c:\dev-front`
 
