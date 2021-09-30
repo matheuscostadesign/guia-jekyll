@@ -34,7 +34,7 @@ Ex: `c:\dev-front`
 `jekyll new meu-blog` | `jekyll new nome-do-projeto`
 
 - Executar comando dentro da pasta criada:
- `bundle add webrick`
+ `bundle add webrick` ou apenas `bundle`
 
 - Iniciar servidor local:
 `jekyll serve` ou `bundle exec jekyll serve`
