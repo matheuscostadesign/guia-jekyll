@@ -51,4 +51,4 @@ Ex: `c:\dev-front`
 - Habilitar a linha: `gem "github-pages", group: :jekyll_plugins`
 - Remover o arquivo: `Gemfile.lock`
 - Executar o comando: `bundle install` e `bundle update`
-- Um novo arquivo atualizado `Gemfile.lock` deve ser gerado
+- O arquivo `Gemfile.lock` será criado automaticamente
