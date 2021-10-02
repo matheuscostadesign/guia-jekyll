@@ -44,3 +44,11 @@ Ex: `c:\dev-front`
 
 - Gerar arquivos estáticos
 `jekyll build` ou `bundle exec jekyll build` ou `bundle exec jekyll b`
+
+###  Publicar Jekyll no Github Pages
+- Editar o arquivo: `Gemfile`
+- Comentar a linha: `#gem "jekyll", "~> 4.2.1"`
+- Habilitar a linha: `gem "github-pages", group: :jekyll_plugins`
+- Remover o arquivo: `Gemfile.lock`
+- Executar o comando: `bundle install` e `bundle update`
+- Um novo arquivo atualizado `Gemfile.lock` deve ser gerado
