@@ -33,6 +33,9 @@ Ex: `c:\dev-front`
 - Criando a pasta/estrutura "meu-blog":
 `jekyll new meu-blog` | `jekyll new nome-do-projeto`
 
+- Criando estrutura do Jekyll direto na pasta:
+`jekyll new . --force`
+
 - Executar comando dentro da pasta criada:
  `bundle add webrick` ou apenas `bundle`
 
