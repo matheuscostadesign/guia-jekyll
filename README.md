@@ -43,7 +43,6 @@ Ex: `c:\dev-front`
 `jekyll serve` ou `bundle exec jekyll serve` ou `bundle exec jekyll s`
 
 - Iniciar servidor local (c/ atualização instantânea):
-`gem install eventmachine --platform ruby`
 `bundle exec jekyll serve --livereload`
 
 - Gerar arquivos estáticos
