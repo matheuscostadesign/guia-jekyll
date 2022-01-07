@@ -30,17 +30,20 @@
 - Abrir VSCode dentro da pasta escolhida
 Ex: `c:\dev-front`
 
+- Instalar bundler
+`gem install jekyll bundler`
+
 - Criando a pasta/estrutura "meu-blog":
 `jekyll new meu-blog` | `jekyll new nome-do-projeto`
 
 - Criando estrutura do Jekyll direto na pasta:
 `jekyll new . --force`
 
-- Executar comando dentro da pasta criada:
+- Executar comando dentro da pasta criada: (p/versao 3)
  `bundle add webrick` ou apenas `bundle`
 
 - Iniciar servidor local:
-`jekyll serve` ou `bundle exec jekyll serve` ou `bundle exec jekyll s`
+`bundle exec jekyll serve` ou `bundle exec jekyll s` ou `jekyll serve`
 
 - Iniciar servidor local (c/ atualização instantânea):
 `bundle exec jekyll serve --livereload`
