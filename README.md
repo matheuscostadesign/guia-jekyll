@@ -27,7 +27,7 @@
 
 ###  Execução do Jekyll
 
-- Abrir VSCode dentro da pasta escolhida
+- Abrir VSCode como administrador dentro da pasta escolhida
 Ex: `c:\dev-front`
 
 - Instalar bundler
