@@ -23,6 +23,10 @@
 
 - Reiniciar a máquina
 
+### Baixar as dependências
+
+`bundle install`
+
 ---
 
 ###  Execução do Jekyll
