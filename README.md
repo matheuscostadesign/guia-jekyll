@@ -27,6 +27,7 @@
 
 ### Baixar as dependências
 
+- Executar o comando:
 `bundle install`
 
 ---
